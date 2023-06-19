@@ -1,2 +1,2 @@
 # The-Game
-theme: binima
+theme: Slate
